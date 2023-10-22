@@ -1,4 +1,109 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'spectral'
+baseURL = "https://proyectonexus.cl/"
+languageCode = "es"
+title = "Proyecto Nexus"
+theme = "spectral"
+
+[params]
+fancyTitle = '<img height="160" src="/img/nexus-sin-fondo.png" alt="Logo"/>' # title for frontpage, may include image
+copyright = "Proyecto Nexus"
+description = 'Somos un colectivo transdisciplinario<br />comprometido con la reducción de daños,<br />los derechos y la participación significativa<br />de lxs usuarixs de drogas'
+body_is_markdown = true
+
+[[params.menu.main]]
+url = '/'
+title = "Inicio"
+
+[[params.menu.main]]
+url = '/encuesta/'
+title = "Encuesta"
+
+[[params.menu.main]]
+url = '/biblioteca/'
+title = "Biblioteca"
+
+[[params.menu.main]]
+url = '/blog/'
+title = "Blog"
+
+[taxonomies]
+    tag = "etiquetas"
+    category = "categorías"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Investigación, educación,<br />comunicación y activismo'
+body = '''
+Somos profesionales de las ciencias sociales, ciencias de la salud y las artes. <br />
+Trabajamos juntxs para la reducción de riesgos en torno a los usos de drogas en espacios de ocio.  
+'''
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/pic01.png"
+img_alt = "dibujo abstracto en fondo oscuro"
+title = 'Magna primis lobortis<br />sed ullamcorper'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section]]
+img = "img/pic02.png"
+img_alt = "dibujo abstracto en fondo oscuro"
+title = 'Tortor dolore feugiat<br />elementum magna'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section]]
+img = "img/pic03.png"
+img_alt = "dibujo abstracto en fondo oscuro"
+title = 'Magna primis lobortis<br />sed ullamcorper'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[params.three]
+enable = true
+title = 'Accumsan mus tortor nunc aliquet'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[params.cta]
+enable = true
+title = "¡Participa en nuestra encuesta!"
+body = "Tu experiencia es valiosa y tu participación anónima; contigo podremos generar mayor conocimiento sobre cómo nos relacionamos con las drogas y sus riesgos y, asimismo, los derechos para toda la comunidad de usuarixs."
+
+[[params.cta.link]]
+href = "#"
+text = "Responde aquí"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Conoce más"
+special = false
+
+[params.contact]
+enable = false
+title = "Contacto"
+body = "Déjanos un mensaje."
+email = "nexuslab.farmacopolitico@gmail.com"
+subject = "¡Nuevo mensaje!"
+formspree_form_id = "example_invalid"
+
+[params.social]
+github = "https://github.com/nexusproject-cl"
+instagram = "https://www.instagram.com/proyecton3xus/"
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
+
+[languages.es]
+weight = 10
+languageName = "Español"
