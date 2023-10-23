@@ -1,10 +1,11 @@
 baseURL = "https://proyectonexus.cl/"
 languageCode = "es"
+defaultContentLanguage = "es"
 title = "Proyecto Nexus"
 theme = "spectral"
 
 [params]
-fancyTitle = '<img height="160" src="/img/nexus-sin-fondo.png" alt="Logo"/>' # title for frontpage, may include image
+fancyTitle = '<img height="160" src="/img/nexus-sin-fondo.png" alt="Logo"/><br />Proyecto Nexus' # title for frontpage, may include image
 copyright = "Proyecto Nexus"
 description = 'Somos un colectivo transdisciplinario<br />comprometido con la reducción de daños,<br />los derechos y la participación significativa<br />de lxs usuarixs de drogas'
 body_is_markdown = true
@@ -48,13 +49,13 @@ title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "img/pic02.png"
+img = "img/pic03.png"
 img_alt = "dibujo abstracto en fondo oscuro"
 title = 'Tortor dolore feugiat<br />elementum magna'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "img/pic03.png"
+img = "img/pic02.png"
 img_alt = "dibujo abstracto en fondo oscuro"
 title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
@@ -73,12 +74,12 @@ title = "¡Participa en nuestra encuesta!"
 body = "Tu experiencia es valiosa y tu participación anónima; contigo podremos generar mayor conocimiento sobre cómo nos relacionamos con las drogas y sus riesgos y, asimismo, los derechos para toda la comunidad de usuarixs."
 
 [[params.cta.link]]
-href = "#"
+href = "https://nexus.limesurvey.net/231210"
 text = "Responde aquí"
 special = true
 
 [[params.cta.link]]
-href = "#"
+href = "#encuesta"
 text = "Conoce más"
 special = false
 
@@ -87,23 +88,13 @@ enable = false
 title = "Contacto"
 body = "Déjanos un mensaje."
 email = "nexuslab.farmacopolitico@gmail.com"
-subject = "¡Nuevo mensaje!"
+subject = "Nuevo mensaje desde página web"
 formspree_form_id = "example_invalid"
 
 [params.social]
-github = "https://github.com/nexusproject-cl"
-instagram = "https://www.instagram.com/proyecton3xus/"
-
-# language specific options
-
-[languages.en]
-weight = 0
-languageName = "English"
-
-[languages.de]
-weight = 10
-languageName = "Deutsch"
+github = "nexusproject-cl"
+instagram = "proyecton3xus"
 
 [languages.es]
-weight = 10
+weight = 0
 languageName = "Español"
