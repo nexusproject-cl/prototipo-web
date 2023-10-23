@@ -34,10 +34,7 @@ title = "Blog"
 [params.one]
 enable = true
 title = 'Investigación, educación,<br />comunicación y activismo'
-body = '''
-Somos profesionales de las ciencias sociales, ciencias de la salud y las artes. <br />
-Trabajamos juntxs para la reducción de riesgos en torno a los usos de drogas en espacios de ocio.  
-'''
+body = 'Somos profesionales de las ciencias sociales, ciencias de la salud y las artes. <br /> Trabajamos juntxs para la reducción de riesgos en torno a los usos de drogas en espacios de ocio.'
 
 [params.two]
 enable = true
