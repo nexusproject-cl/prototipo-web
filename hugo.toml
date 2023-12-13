@@ -34,7 +34,7 @@ title = "Blog"
 [params.one]
 enable = true
 title = 'Investigación, educación,<br />comunicación y activismo'
-body = 'Somos profesionales de las ciencias sociales, ciencias de la salud y las artes. <br /> Trabajamos juntxs para la reducción de riesgos en torno a los usos de drogas en espacios de ocio.'
+body = 'Somos principalmente jóvenes partícipes del ocio festivo comprometidxs con la reducción de daños, los derechos humanos y la participación significativa de las comunidades de usuarixs de drogas en el desarrollo, aplicación y seguimiento de todas las políticas, programas, servicios e iniciativas que afectan nuestras formas de vida. Desde las ciencias sociales, las ciencias de la salud y las artes, trabajamos juntxs para la reducción de riesgos en torno a los usos de drogas en espacios de ocio.'
 
 [params.two]
 enable = true
@@ -42,27 +42,27 @@ enable = true
 [[params.two.section]]
 img = "img/pic01.png"
 img_alt = "dibujo abstracto en fondo oscuro"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Nuestra misión es reducir los riesgos y daños asociados al uso de psicoactivos'
+body = 'Nos apoyamos en los experiencia de buenas prácticas de muchas otras organizaciones de la sociedad civil, la academia y la ciencia, que han aportado conocimiento crítico respecto a los regímenes de gobierno farmacosexuales y sus efectos en cuerpos, placeres, riesgos y subjetividades contemporáneas. Nos inspiran organizaciones como la Red Chilena de Reducción de Daños, Movimental, Cáñamo Chile, IGIA, Échele cabeza, Energy Control, entre otras.'
 
 [[params.two.section]]
 img = "img/pic03.png"
 img_alt = "dibujo abstracto en fondo oscuro"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Alianzas estratégicas y mirada regional'
+body = 'Creemos que es prioritario articular el mundo científico-académico y el movimiento social para cumplir con nuestros objetivos. Proyecto Nexus reúne la experiencia y _expertice_ de destacadxs profesionales y organizaciones, con experiencia internacional, que han participado en los principales esfuerzos científicos, políticos, sociales y culturales en Chile, para la construcción de una ciudadanía más informada, activa y crítica en materia de drogas.'
 
 [[params.two.section]]
 img = "img/pic02.png"
 img_alt = "dibujo abstracto en fondo oscuro"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Nuestras acciones van dirigidas<br />a grupos e instancias diversas'
+body = 'A equipos de terreno, organizaciones de prevención y educación sanitaria, organismos públicos encargados del tema drogas, medios de comunicación, partidos políticos, centros académicos, asociaciones comunitarias, grupos de acción colectiva, colectivos de usuarixs y/o afectadxs, y público en general.'
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'Revisa nuestra página y redes sociales'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Estaremos subiremos material escrito y audiovisual que sea de interés público respecto a la reducción de daños en el contexto del consumo de drogas. 
+¡Atentx a las novedades!
 '''
 
 [params.cta]
@@ -71,12 +71,12 @@ title = "¡Participa en nuestra encuesta!"
 body = "Tu experiencia es valiosa y tu participación anónima; contigo podremos generar mayor conocimiento sobre cómo nos relacionamos con las drogas y sus riesgos y, asimismo, los derechos para toda la comunidad de usuarixs."
 
 [[params.cta.link]]
-href = "https://nexus.limesurvey.net/231210"
+href = "https://nexus.limesurvey.net/940174"
 text = "Responde aquí"
 special = true
 
 [[params.cta.link]]
-href = "#encuesta"
+href = "http://proyectonexus.cl/encuesta/"
 text = "Conoce más"
 special = false
 
