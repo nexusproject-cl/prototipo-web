@@ -5,7 +5,7 @@ title = "Proyecto Nexus"
 theme = "spectral"
 
 [params]
-fancyTitle = '<img height="80" src="/img/nexus-sin-fondo.png" alt="Logo"/><br />Proyecto Nexus' # title for frontpage, may include image
+fancyTitle = '<img height="100" src="/img/logo-proyecto-nexus.png" alt="Logo"/>' # title for frontpage, may include image
 copyright = "Proyecto Nexus"
 description = 'Somos un colectivo transdisciplinario comprometido con la reducción de daños,<br />los derechos y la participación significativa<br />de lxs usuarixs de drogas'
 body_is_markdown = true
