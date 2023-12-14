@@ -1,13 +1,13 @@
-baseURL = "https://proyectonexus.cl/"
+baseURL = "http://proyectonexus.cl/"
 languageCode = "es"
 defaultContentLanguage = "es"
 title = "Proyecto Nexus"
 theme = "spectral"
 
 [params]
-fancyTitle = '<img height="160" src="/img/nexus-sin-fondo.png" alt="Logo"/><br />Proyecto Nexus' # title for frontpage, may include image
+fancyTitle = '<img height="80" src="/img/nexus-sin-fondo.png" alt="Logo"/><br />Proyecto Nexus' # title for frontpage, may include image
 copyright = "Proyecto Nexus"
-description = 'Somos un colectivo transdisciplinario<br />comprometido con la reducción de daños,<br />los derechos y la participación significativa<br />de lxs usuarixs de drogas'
+description = 'Somos un colectivo transdisciplinario comprometido con la reducción de daños,<br />los derechos y la participación significativa<br />de lxs usuarixs de drogas'
 body_is_markdown = true
 
 [[params.menu.main]]
@@ -33,7 +33,7 @@ title = "Blog"
 
 [params.one]
 enable = true
-title = 'Investigación, educación,<br />comunicación y activismo'
+title = 'Investigación, educación, comunicación y activismo'
 body = 'Somos principalmente jóvenes partícipes del ocio festivo comprometidxs con la reducción de daños, los derechos humanos y la participación significativa de las comunidades de usuarixs de drogas en el desarrollo, aplicación y seguimiento de todas las políticas, programas, servicios e iniciativas que afectan nuestras formas de vida. Desde las ciencias sociales, las ciencias de la salud y las artes, trabajamos juntxs para la reducción de riesgos en torno a los usos de drogas en espacios de ocio.'
 
 [params.two]
