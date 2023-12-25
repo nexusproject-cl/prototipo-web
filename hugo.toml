@@ -1,4 +1,4 @@
-baseURL = "http://proyectonexus.cl/"
+baseURL = "https://proyectonexus.cl/"
 languageCode = "es"
 defaultContentLanguage = "es"
 title = "Proyecto Nexus"
@@ -19,8 +19,8 @@ url = '/encuesta/'
 title = "Encuesta"
 
 [[params.menu.main]]
-url = '/biblioteca/'
-title = "Biblioteca"
+url = '/descargas/'
+title = "Descargas"
 
 [[params.menu.main]]
 url = '/blog/'
@@ -76,7 +76,7 @@ text = "Responde aquí"
 special = true
 
 [[params.cta.link]]
-href = "http://proyectonexus.cl/encuesta/"
+href = "https://proyectonexus.cl/encuesta/"
 text = "Conoce más"
 special = false
 
