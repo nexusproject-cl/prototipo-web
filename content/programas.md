@@ -5,9 +5,9 @@ draft = false
 
 Proyecto Nexus se hace cargo de 3 ejes de trabajo:
 
-1. Científico – académico. Orientada a la producción y difusión de conocimiento.
-2. Advocacy y defensoría. Orientada a promover el cambio político y la defensa de los derechos de la población afectada en particular, y de la sociedad en general 
-3. Información, educación y comunicación (I-E-C). Orientada a difundir información científica y técnica, brindar educación para la reducción de riesgos y daños, y generar espacios de diálogo e intercambios sobre diferentes perspectivas de análisis e intervención.  
+1. **Científico – académico.** Orientada a la producción y difusión de conocimiento.
+2. **Advocacy y defensoría.** Orientada a promover el cambio político y la defensa de los derechos de la población afectada en particular, y de la sociedad en general 
+3. **Información, educación y comunicación (I-E-C).** Orientada a difundir información científica y técnica, brindar educación para la reducción de riesgos y daños, y generar espacios de diálogo e intercambios sobre diferentes perspectivas de análisis e intervención.  
 
 Estos ejes estratégicos se desarrollarán a través de diversos programa tal y como son descritos a continuación.
 
