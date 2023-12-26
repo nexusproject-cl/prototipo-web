@@ -26,6 +26,10 @@ title = "Descargas"
 url = '/programas/'
 title = "Programas"
 
+[[params.menu.main]]
+url = '/amigxs/'
+title = "Organizaciones amigas"
+
 [taxonomies]
     tag = "etiquetas"
     category = "categorías"
