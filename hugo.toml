@@ -15,20 +15,20 @@ url = '/'
 title = "Inicio"
 
 [[params.menu.main]]
+url = '/programas-y-servicios/'
+title = "Programas y servicios"
+
+[[params.menu.main]]
 url = '/encuesta/'
-title = "Encuesta"
+title = "Encuestas"
+
+[[params.menu.main]]
+url = '/organizaciones-amigas/'
+title = "Organizaciones amigas"
 
 [[params.menu.main]]
 url = '/descargas/'
 title = "Descargas"
-
-[[params.menu.main]]
-url = '/programas/'
-title = "Programas"
-
-[[params.menu.main]]
-url = '/amigxs/'
-title = "Organizaciones amigas"
 
 [taxonomies]
     tag = "etiquetas"
