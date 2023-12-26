@@ -23,8 +23,8 @@ url = '/descargas/'
 title = "Descargas"
 
 [[params.menu.main]]
-url = '/blog/'
-title = "Blog"
+url = '/programas/'
+title = "Programas"
 
 [taxonomies]
     tag = "etiquetas"
